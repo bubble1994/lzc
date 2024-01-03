@@ -2,7 +2,7 @@ import * as dotenv from "dotenv";
 dotenv.config();
 
 import algoliasearch from "algoliasearch";
-const client = algoliasearch("QP4WN0IB1W", "50ce7b95912efcf5e752b782b5858333");
+const client = algoliasearch("", "");
 
 // 1. Build a dataset
 import fs from "fs";
