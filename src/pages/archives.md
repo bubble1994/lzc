@@ -202,7 +202,7 @@ td, th {
         
         
 
-# [java](https://mxz-back.pages.dev/blog/tag/java)
+# [java](https://mxz-back.pages.dev/blog/tag/java基础)
 
 |        |         |        |
 | ------------ |---------|---------|       
