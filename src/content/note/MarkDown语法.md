@@ -41,12 +41,19 @@ tags:
 
 ### 图片：
 
-带尺寸的图片：
-
-带尺寸并且居中的图片：
-
-带尺寸居中且带文字说明的图片：
-
-3、给带尺寸图片加上链接
-
-    https://blog.csdn.net/qq_41544550/article/details/103351183
+# 四、快捷键
+    加粗Ctrl + B
+    斜体Ctrl + I    
+    引用Ctrl + Q    
+    插入链接Ctrl + L    
+    插入代码Ctrl + K    
+    插入图片Ctrl + G    
+    提升标题Ctrl + H    
+    有序列表Ctrl + O    
+    无序列表Ctrl + U    
+    横线Ctrl + R    
+    撤销Ctrl + Z    
+    重做Ctrl + Y
+    
+ 参考链接：https://blog.csdn.net/qq_41544550/article/details/103351183
+          https://markdown.jianguoyun.com/756.html
