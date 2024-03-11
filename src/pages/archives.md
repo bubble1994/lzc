@@ -200,13 +200,6 @@ td, th {
 |[教资科目二](https://mxz-back.pages.dev/blog/教资科目二)|[教资科目一](https://mxz-back.pages.dev/blog/教资科目一)||
 
         
-        
-
-# [java](https://mxz-back.pages.dev/blog/tag/java基础)
-
-|        |         |        |
-| ------------ |---------|---------|       
-|[Java集合框架](https://mxz-back.pages.dev/blog/Java集合框架)|||
-
+       
         
         
