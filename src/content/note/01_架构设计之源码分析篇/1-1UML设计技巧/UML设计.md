@@ -1,9 +1,9 @@
 ---
 pubDatetime: 2024-03-03T00:00:00Z
-title: JWT
-slug: JWT
+title: UML设计
+slug: UML设计
 tags:
-  - "JWT"
+  - "UML设计"
 ---
 
 
