@@ -14,7 +14,7 @@ td, th {
 
 |        |         |        |
 | ------------ |---------|---------|       
-|[2024的展望AAA](https://mxz-back.pages.dev/blog/2024的展望AAA)||
+|[2024的归期与憧憬](https://mxz-back.pages.dev/blog/2024的归期与憧憬)||
 
         
         
@@ -186,8 +186,8 @@ td, th {
 
 |        |         |        |
 | ------------ |---------|---------|       
-|[2010-10-01(狗)](https://mxz-back.pages.dev/blog/2010-10-01(狗))|[2010-10-01(小计)](https://mxz-back.pages.dev/blog/2010-10-01(小计))||
-|[2010-10-01(房东们)](https://mxz-back.pages.dev/blog/2010-10-01(房东们))|[2010-10-01(6年前写的)](https://mxz-back.pages.dev/blog/2010-10-01(6年前写的))||
+|[一只狗](https://mxz-back.pages.dev/blog/一只狗)|[反省与小结](https://mxz-back.pages.dev/blog/反省与小结)||
+|[他们是房东](https://mxz-back.pages.dev/blog/他们是房东)|[六年之前的思考](https://mxz-back.pages.dev/blog/六年之前的思考)||
 
         
         
