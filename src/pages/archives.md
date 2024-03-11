@@ -14,7 +14,7 @@ td, th {
 
 |        |         |        |
 | ------------ |---------|---------|       
-|[2024-01-01(元旦逛)](https://mxz-back.pages.dev/blog/2024-01-01(元旦逛))|[2024的展望](https://mxz-back.pages.dev/blog/2024的展望)||
+|[2024-01-01(元旦逛)ffff](https://mxz-back.pages.dev/blog/2024-01-01(元旦逛)ffff)|[2024的展望AAA](https://mxz-back.pages.dev/blog/2024的展望AAA)||
 
         
         
