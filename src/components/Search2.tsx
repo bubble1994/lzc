@@ -32,7 +32,7 @@ const searchClient = algoliasearch(
 );
 
 function Hit({ hit }) {
-  var url = "https://lzc-back.pages.dev/blog/" + hit.url;
+  var url = "https://lzc-blog.pages.dev/blog/" + hit.url;
   return (
     <article>
       <a href={url}>
