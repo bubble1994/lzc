@@ -31,8 +31,8 @@ td, th {
 
 |        |         |        |
 | ------------ |---------|---------|       
-|[教资面试(信息的一般特征)](https://lzc-blog.pages.dev/blog/教资面试(信息的一般特征))|[教资科目三](https://lzc-blog.pages.dev/blog/教资科目三)||
-|[教资科目二](https://lzc-blog.pages.dev/blog/教资科目二)|[教资科目一](https://lzc-blog.pages.dev/blog/教资科目一)||
+|[教资面试(信息的一般特征)](https://lzc-blog.pages.dev/note/教资面试(信息的一般特征))|[教资科目三](https://lzc-blog.pages.dev/note/教资科目三)||
+|[教资科目二](https://lzc-blog.pages.dev/note/教资科目二)|[教资科目一](https://lzc-blog.pages.dev/note/教资科目一)||
 
         
        
