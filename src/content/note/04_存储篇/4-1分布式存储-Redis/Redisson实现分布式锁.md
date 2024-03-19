@@ -60,9 +60,7 @@ for i = 0,2 do
 print(array[i])
 end 
 ```
-![](./../../../../../public/img/note/Redisson实现分布式锁/Redisson实现分布式锁-1710492890933.png)
 
-![1710340382294](C:\Users\lzc\AppData\Local\Temp\1710340382294.png)
 
 ## Redis中调用Lua脚本
 
@@ -70,6 +68,6 @@ end
 eval "return redis.call('set', KEYS[1], ARGV[1])" 1 luaKey hello 
 ```
 
-![1710340852580](C:\Users\lzc\AppData\Local\Temp\1710340852580.png)
+
 
 # 6.时间轮机制
