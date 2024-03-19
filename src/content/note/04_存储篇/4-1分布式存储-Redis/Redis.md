@@ -1,3 +1,11 @@
+---
+pubDatetime: 2023-11-26T00:00:00Z
+title: Redis简介
+slug: Redis简介
+tags:
+  - "Redis"
+  - "Redis简介"
+---
 # Redis
 
 # 1. Redis简介
