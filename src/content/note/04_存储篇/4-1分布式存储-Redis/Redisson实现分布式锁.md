@@ -1,11 +1,3 @@
----
-pubDatetime: 2023-11-26T00:00:00Z
-title: Redis
-slug: Redis
-tags:
-  - "Redis"
-  - "分布式锁"
----
 # Redisson实现分布式锁
 
 # 1. 锁的类型 
@@ -61,6 +53,7 @@ for i = 0,2 do
 print(array[i])
 end 
 ```
+![](./../../../../../public/img/note/Redisson实现分布式锁/Redisson实现分布式锁-1710492890933.png)
 
 ![1710340382294](C:\Users\lzc\AppData\Local\Temp\1710340382294.png)
 
